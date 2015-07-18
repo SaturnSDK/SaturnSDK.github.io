@@ -1,0 +1,68 @@
+html,
+body
+{
+	margin: auto;
+	background: #17569B;
+	width: 770px;
+	padding: 0;
+	height: 100%;
+	font-family: 'Varela Round';
+	color: #FFFFFF;
+	font-size: 14px;
+	line-height: 1.2em;
+}
+
+a
+{
+	color: #CCCCCC;
+	text-decoration: none;
+	font-size: 18px;
+	line-height: 20px;
+}
+
+a:hover
+{
+	color: #EFEFEF;
+}
+
+#content
+{
+	min-height: 100%;
+	position: relative;
+	background: #777777;
+}
+
+#header
+{
+	text-align: center;
+	font-size: 25px;
+	padding-bottom: 30px;
+	background: #999999;
+}
+
+#headerlink a
+{
+	color: #EEEE00;
+	text-decoration: none;
+	font-size: 25px;
+}
+
+#headerlink a:hover
+{
+	color: #FFFF00;
+	font-size: 25px;
+}
+
+#body
+{
+	padding-bottom:25px;
+}
+
+#footer
+{
+	position:absolute;
+	bottom:0;
+	width: 100%;
+	height: 25px;
+	background: #999999;
+}
