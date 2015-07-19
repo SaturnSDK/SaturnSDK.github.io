@@ -29,7 +29,13 @@ a:hover
 {
 	min-height: 100%;
 	position: relative;
-	background: #777777;
+	background: #444444;
+}
+
+#header,
+#footer
+{
+	background: #114074;
 }
 
 #header
@@ -37,7 +43,6 @@ a:hover
 	text-align: center;
 	font-size: 25px;
 	padding-bottom: 30px;
-	background: #999999;
 }
 
 #headerlink a
@@ -64,5 +69,4 @@ a:hover
 	bottom:0;
 	width: 100%;
 	height: 25px;
-	background: #999999;
 }
